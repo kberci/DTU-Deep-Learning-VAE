@@ -11,4 +11,4 @@ The VAE model’s encoder and decoder are implemented as LSTM modules which are 
 A custom dataloader is implemented which randomly batches the songs to train on, but sequentially samples the time sequence from these selected songs.
 
 
-[Generated piano music-example](https://drive.google.com/file/d/1loXeP_7b_YqtWcCez6koAB-6eojGMiZL/view?usp=sharing "Example of generated piano music by the VAE model")
+[Generated piano music example](https://drive.google.com/file/d/1loXeP_7b_YqtWcCez6koAB-6eojGMiZL/view?usp=sharing "Example of generated piano music by the VAE model")
