@@ -10,4 +10,4 @@ The dataset used to train the model is the MAESTRO set, which contains a couple 
 The VAE model’s encoder and decoder are implemented as LSTM modules which are able to remember past information as they train on the songs. 
 A custom dataloader is implemented which randomly batches the songs to train on, but sequentially samples the time sequence from these selected songs.
 
-[example_generated_piano_music](/example.mp3 "Example of generated piano music by the VAE model")
+[Generated piano music-example](/generated_sample.mp3 "Example of generated piano music by the VAE model")
